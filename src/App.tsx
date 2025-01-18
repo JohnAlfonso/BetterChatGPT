@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect } from 'react';  //ChatBot AI
 import useStore from '@store/store';
 import i18n from './i18n';
 
